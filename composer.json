@@ -1,0 +1,15 @@
+{
+    "name": "vendor/csv-importer",
+    "description": "Description of project csvImporter.",
+    "authors": [
+        {
+            "name": "christopher.williams",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "kzykhys/php-csv-parser": "1.4.1",
+        "pwfisher/command-line-php": "dev-master",
+        "respect/validation": "0.6.1"
+    }
+}

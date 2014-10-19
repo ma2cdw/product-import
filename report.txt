@@ -1,0 +1,10 @@
+Product at line 12 will not be inserted 
+	Product has less than 10 stock and costs less than £5
+Product at line 17 will not be inserted 
+	`P0015` is not a unique product code
+Product at line 19 will not be inserted 
+	Product has less than 10 stock and costs less than £5
+Product at line 29 will not be inserted 
+	Product costs more than £1000
+Product at line 30 will not be inserted 
+	Product costs more than £1000
